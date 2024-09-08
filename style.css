@@ -1,52 +1,30 @@
-h1{color:
-  #OOOOO;}
 
-#cassio{
-    width: 200px;
-    height: 200px;
-    margin-right:  600px;
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
 }
 
-#luizinho{
-    width: 200px;
-    height: 200px; 
-    margin-right: 600px;
+button {
+    background-color: #000000;
+    color: rgb(255, 0, 0);
+    font-family: "Bai Jamjuree", sans-serif;
 }
-
-#ronaldo{
-    width: 200px;
-    height: 200px; ;
-    margin-right: 600px;
+.passo {
+    display: none;
 }
-
-#zé{
-    width: 200px ;
-    height: 200px ;
-    margin-right: 600px ;
+.passo.ativo {
+    display:block;
 }
-
-#biro{
-    width: 200px;
-    height: 200px;
-    margin-right: 600px;
+main {
+    text-align: center;
+    max-width: 90%;
 }
-
-#Vaguinho{
-    width: 200px;
-    height: 200px;
-    margin-right: 600px;
+.div passo-3"{
+    image: line-height: 90%
 }
-
-#claudio{
-    width: 200px;
-    height: 200px;
-    margin-right: 600px;
-}
-
-#Rivellino{
-    width: 200px;
-    height: 200px;
-    margin-right: 600px;
-}
-    
-    
